@@ -10871,3 +10871,7 @@ header.header ul li a.active {
     font-weight: 900;
 }
 
+.winner-details-wrapper .body .numbers li {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
