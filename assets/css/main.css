@@ -10865,3 +10865,9 @@ a.cmn-btn {
 span.pay-50 {
     color: #ffbf00;
 }
+
+header.header ul li a.active {
+    color: #ffbf00 !important;
+    font-weight: 900;
+}
+
