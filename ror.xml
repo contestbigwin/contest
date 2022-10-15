@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://googlepro.in/</title>
+  <link>https://googlepro.in/</link>
+
+<item>
+     <link>https://googlepro.in/</link>
+     <title>Lucky Draw Contest</title>
+     <description>Try your luck and win your dream car only for 50 Rupees</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://googlepro.in/index.html</link>
+     <title>Lucky Draw Contest</title>
+     <description>Try your luck and win your dream car only for 50 Rupees</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://googlepro.in/about.html</link>
+     <title>About US - Lucky Draw Contest</title>
+     <description>Try your luck and win your dream car only for 50 Rupees</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://googlepro.in/winner.html</link>
+     <title>Winner - Lucky Draw Contest</title>
+     <description>Try your luck and win your dream car only for 50 Rupees</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://googlepro.in/contest.html</link>
+     <title> Buy Tickets - Lucky Draw Contest</title>
+     <description>Try your luck and win your dream car only for 50 Rupees</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
