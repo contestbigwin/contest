@@ -1,2 +1,56 @@
 User-agent: *
 Sitemap: https://googlepro.in/sitemap.xml
+
+Disallow: https://googlepro.in/cgi-sys/suspendedpage.cgi
+Disallow: https://googlepro.in/?cat=2
+Disallow: https://googlepro.in/andrew-cunanan-biography/
+Disallow: https://googlepro.in/galileo-galilei-biography/page/2/
+Disallow: https://googlepro.in/tag/जेफरी-डेहम-की-जीवनी/
+Disallow: https://googlepro.in/cgi-sys/suspendedpage.cgi?m=0
+Disallow: https://googlepro.in/page/6/?m=0
+Disallow: https://googlepro.in/page/3/
+Disallow: https://googlepro.in/tag/क्रिस्टियानो-रोनाल्डो-की/
+Disallow: https://googlepro.in/tag/टेलर-स्विफ्ट-की-जीवनी/
+Disallow: https://googlepro.in/tag/मारी-क्यूरी-की-जीवनी/
+Disallow: https://googlepro.in/tag/शकुंतला-देवी-की-जीवनी/
+Disallow: https://googlepro.in/tag/tim-berners-lee-biography-in-hindi/
+Disallow: https://googlepro.in/tag/prime-minister-of-india/
+Disallow: https://googlepro.in/cgi-sys/suspendedpage.cgi?p=16
+Disallow: https://googlepro.in/cgi-sys/suspendedpage.cgi?p=20
+Disallow: https://googlepro.in/albert-einstein-biography/page/3/
+Disallow: https://googlepro.in/alex-morgan-biography-in-hindi/page/2/
+Disallow: https://googlepro.in/author/admin/page/4/
+Disallow: https://googlepro.in/privacy-policy-2/
+Disallow: https://googlepro.in/ted-bundy-biography/page/4/
+Disallow: https://googlepro.in/benjamin-franklin-biography/page/2/
+Disallow: https://googlepro.in/category/politician/
+Disallow: https://googlepro.in/page/2/
+Disallow: https://googlepro.in/tag/शाहरुख-खान-की-जीवनी/
+Disallow: https://googlepro.in/marie-curie-biography-in-hindi/page/2/
+Disallow: https://googlepro.in/taylor-swift-biography-in-hindi/
+Disallow: https://googlepro.in/cgi-sys/suspendedpage.cgi?p=15
+Disallow: https://googlepro.in/cgi-sys/suspendedpage.cgi?p=7
+Disallow: https://googlepro.in/?p=20
+Disallow: https://googlepro.in/?p=16
+Disallow: https://googlepro.in/karl-marx-biography/page/3/
+Disallow: https://googlepro.in/queen-elizabeth-ii-biography/page/3/
+Disallow: https://googlepro.in/maria-sharapova-biography-in-hindi/
+Disallow: https://googlepro.in/tag/टेड-बंडी-जीवनी/
+Disallow: https://googlepro.in/?p=15
+Disallow: https://googlepro.in/karla-homolka-biography-in-hindi/
+Disallow: https://googlepro.in/shakuntala-devi-biography-in-hindi/
+Disallow: https://googlepro.in/tag/marie-curie-biography-in-hindi/
+Disallow: https://googlepro.in/?p=7
+Disallow: https://googlepro.in/page/3/?m=0
+Disallow: https://googlepro.in/dakota-johnson-biography-in-hindi/
+Disallow: https://googlepro.in/aishwarya-rai-biography/page/4/
+Disallow: https://googlepro.in/donald-trump-biography/
+Disallow: https://googlepro.in/tag/albert-einstein-biography-in-hindi/
+Disallow: https://googlepro.in/tag/priyanka-chopra-nick-jonas/
+Disallow: https://googlepro.in/albert-einstein-biography/
+Disallow: https://googlepro.in/jeffrey-dahmer-biography/page/4/
+Disallow: https://googlepro.in/pablo-escobar-biography/page/2/
+Disallow: https://googlepro.in/wp-content/plugins/onesignal-free-web-push-notifications/onesignal-admin.php
+
+
+ 
